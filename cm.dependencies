@@ -1,0 +1,6 @@
+[
+ {
+   "repository": "zte-kernel-lge",
+   "target_path": "kernel/zte/lge"
+ }
+]
